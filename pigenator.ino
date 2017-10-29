@@ -1,4 +1,4 @@
-// trap monitor
+// trap monitor  
 
  int reedswitch = D1; // reedswitch
 
